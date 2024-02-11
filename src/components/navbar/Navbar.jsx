@@ -14,7 +14,7 @@ const Navbar = () => {
                     <li><a>Support</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">AstraJS</a>
+                <a className="btn btn-ghost text-xl">AstraUI</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
